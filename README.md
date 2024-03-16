@@ -4,4 +4,4 @@ truth
 gg
 sinu
 zz
-cash
+cashd
