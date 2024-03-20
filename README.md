@@ -1,4 +1,4 @@
-life
+slife
 clean
 truth
 gg
