@@ -2,7 +2,7 @@ slife
 clean
 truth
 gg
-sinu
+sinus
 zz
 cashd
 asdd
