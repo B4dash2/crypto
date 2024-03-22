@@ -1,5 +1,5 @@
 slife
-clean
+cleans
 truth
 gg
 sinus
